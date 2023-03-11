@@ -39,6 +39,16 @@ Yuanhao is an Ass. Prof. at Shenzhen University. He received his B.S. from Tsing
 </div>
 </div>
 
+</div>
+</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2017</div><img src='images/cf.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Curvature Filters Efficiently Reduce Certain Variational Energies](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7835193) 
+  
+  **Yuanhao Gong**, Ivo F. Sbalzarini
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2018.09* Shenzhen High Caliber Personnel
 - *2012.05* Best Paper Award, IEEE Signal Processing Society
