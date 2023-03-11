@@ -44,7 +44,7 @@ Yuanhao is an Ass. Prof. at Shenzhen University. He received his B.S. from Tsing
 - *2012.05* Best Paper Award, IEEE Signal Processing Society
 
 # 📖 Educations
-- PhD from ETH Zurich (2015.03), M.S from Xiamen University (2010.06), B.S. from Tsinghua University (2007.06)
+- PhD from ETH Zurich(2015), M.S from Xiamen University(2010), B.S. from Tsinghua University(2007)
 
 # 💬 Invited Talks
 - *2022.05*, Curvature Filters Can Efficiently  Minimize Curvatures, Tianjin University
