@@ -31,7 +31,7 @@ Yuanhao is an Ass. Prof. at Shenzhen University. He received his B.S. from Tsing
   **Yuanhao Gong**, Wanlin Huang, Wenhui Wu
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2019</div><img src='images/swf300x200.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2019</div><img src='images/swf.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Side Window Filtering](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yin_Side_Window_Filtering_CVPR_2019_paper.pdf) 
   
