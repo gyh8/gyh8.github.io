@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yuanhao Gong"
-description              : "Curvature for Vison and AI"
+title                    : "Yuanhao"
+description              : "Curvature for Vision"
 repository               : "gyh8/gyh8.github.io"
 google_scholar_stats_use_cdn : true
 
