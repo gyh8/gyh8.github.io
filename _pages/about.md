@@ -19,7 +19,7 @@ redirect_from:
 
 Yuanhao received his B.S. from Tsinghua University in 2007 and PhD from ETH Zuich in 2015. He is an Ass. Prof. at Shenzhen University.
 
-His research interest includes computer vision, deep learning and numerical methods. He have published more than 60 papers with total <a href='https://scholar.google.com/citations?user=mZodcgwAAAAJ'>google scholar citations <strong><span id='total_cit'>1700+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=mZodcgwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+His research interest includes computer vision, deep learning and numerical methods. He have published more than 60 papers with total <a href='https://scholar.google.com/citations?user=mZodcgwAAAAJ'>google scholar citations <strong><span id='total_cit'>1700+</span></strong></a> (google scholar<a href='https://scholar.google.com/citations?user=mZodcgwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
@@ -30,16 +30,10 @@ His research interest includes computer vision, deep learning and numerical meth
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2019</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Side Window Filtering](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yin_Side_Window_Filtering_CVPR_2019_paper.pdf)
+[Side Window Filtering](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yin_Side_Window_Filtering_CVPR_2019_paper.pdf) Hui Yin, **Yuanhao Gong**, Guoping Qiu
 
-Hui Yin, **Yuanhao Gong**, Guoping Qiu
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Yuanhao. 
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2018.09* Shenzhen High Caliber Personnel
