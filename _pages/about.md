@@ -39,6 +39,14 @@ Yuanhao is an Ass. Prof. at Shenzhen University. He received his B.S. from Tsing
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SP 2019</div><img src='images/wmc.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Weighted Mean Curvature](https://doi.org/10.1016/j.sigpro.2019.06.020) 
+  
+**Yuanhao Gong**, Orcun Goksel
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2017</div><img src='images/cf.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Curvature Filters Efficiently Reduce Certain Variational Energies](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7835193) 
@@ -47,6 +55,37 @@ Yuanhao is an Ass. Prof. at Shenzhen University. He received his B.S. from Tsing
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSTSP 2016</div><img src='images/gdp.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[A Natural-Scene Gradient Distribution Prior and its Application in Light-Microscopy Image Processing](https://ieeexplore.ieee.org/abstract/document/7347339/) 
+  
+  **Yuanhao Gong**, Ivo F. Sbalzarini
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Methods 2014</div><img src='images/nature.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Objective comparison of particle tracking methods](https://www.nature.com/articles/nmeth.2808) 
+  
+ N. Chenouard, I. Smal, F. Chaumont, M. Maška, I. Sbalzarini, **Y. Gong**, et al.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP 2013</div><img src='images/wgc.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Local weighted Gaussian curvature for image processing](https://ieeexplore.ieee.org/abstract/document/6738110/) 
+  
+  **Yuanhao Gong**, Ivo F. Sbalzarini
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISBI 2012</div><img src='images/csdf.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Coupled signed-distance functions for implicit surface reconstruction](https://ieeexplore.ieee.org/abstract/document/6235726) 
+  
+  **Yuanhao Gong**, Gregory Paul, Ivo F. Sbalzarini
+</div>
+</div>
 # 🎖 Honors and Awards
 - *2018.09* Shenzhen High Caliber Personnel
 - *2012.05* Best Paper Award, IEEE Signal Processing Society
