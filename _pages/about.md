@@ -24,7 +24,7 @@ Yuanhao is an Ass. Prof. at Shenzhen University. He received his B.S. from Tsing
 - *2023.02*: &nbsp;🎉🎉 Two papers have been accepted at ISBI.
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISBI 2023</div><img src='images/scatter300x200.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISBI 2023</div><img src='images/scatterLight.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Removing Scattered Light in Biomedical Images](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yin_Side_Window_Filtering_CVPR_2019_paper.pdf) 
 
