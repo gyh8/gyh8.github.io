@@ -31,6 +31,20 @@ Yuanhao is an Ass. Prof. at Shenzhen University. He received his B.S. from Tsing
   **Yuanhao Gong**, Wanlin Huang, Wenhui Wu
 </div>
 </div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IVC 2021</div><img src='images/msms.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Motion saliency based multi-stream multiplier ResNets for action recognition](https://doi.org/10.1016/j.imavis.2021.104108) 
+  
+ Ming Zong, Ruili Wang, Xiubo Chen, Zhe Chen, **Yuanhao Gong**
+</div>
+</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP 2021</div><img src='images/dswgc.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[A Discrete Scheme for Computing Image’s Weighted Gaussian Curvature](https://ieeexplore.ieee.org/abstract/document/9506611) 
+  
+ **Yuanhao Gong**, Wenming Tang, Lebin Zhou, Lantao Yu, Guoping Qiu
+</div>
+</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2019</div><img src='images/swf.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Side Window Filtering](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yin_Side_Window_Filtering_CVPR_2019_paper.pdf) 
