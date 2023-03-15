@@ -31,6 +31,13 @@ Yuanhao is an Ass. Prof. at Shenzhen University. He received his B.S. from Tsing
   **Yuanhao Gong**, Wanlin Huang, Wenhui Wu
 </div>
 </div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISBI 2023</div><img src='images/xhand.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[3D Hand Bones and Tissue Estimation from A Single 2D X-ray Image via A Two-stream Deep Neural Network](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yin_Side_Window_Filtering_CVPR_2019_paper.pdf) 
+
+  Wanlin Huang, Wenhui Wu, **Yuanhao Gong**
+</div>
+</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IVC 2021</div><img src='images/msms.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Motion saliency based multi-stream multiplier ResNets for action recognition](https://doi.org/10.1016/j.imavis.2021.104108) 
