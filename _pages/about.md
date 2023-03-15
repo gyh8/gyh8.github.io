@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yuanhao is an Ass. Prof. at Shenzhen University. He received his B.S. from Tsinghua University in 2007 and PhD from ETH Zuich in 2015. His research interest includes computer vision, deep learning and numerical methods. He have published more than 60 papers with total <a href='https://scholar.google.com/citations?user=mZodcgwAAAAJ'>1700+ google scholar citations</a>.
+Yuanhao is an Ass. Prof. at Shenzhen University. He received his B.S. from Tsinghua University in 2007 and PhD from ETH Zuich in 2015. His research interest includes computer vision, deep learning and numerical methods. He has published more than 60 papers with total <a href='https://scholar.google.com/citations?user=mZodcgwAAAAJ'>1700+ google scholar citations</a>.
 
 
 # 🔥 News
