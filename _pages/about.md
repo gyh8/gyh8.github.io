@@ -22,7 +22,7 @@ Yuanhao is an Ass. Prof. at Shenzhen University since 2018. He received his B.S.
 
 # 🔥 News
 - *2023.02*: &nbsp;🎉🎉 Two papers have been accepted at ISBI.
-- *2022.10*: &nbsp;🎉🎉 A paper has been accepted at ACM MM.
+- *2022.10*: &nbsp;🎉 A paper has been accepted at ACM MM.
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISBI 2023</div><img src='images/scatterLight.jpg' alt="sym" width="100%"></div></div>
@@ -97,9 +97,9 @@ Yuanhao is an Ass. Prof. at Shenzhen University since 2018. He received his B.S.
    IEEE International Conference on Image Processing (ICIP)
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SP 2020</div><img src='images/swf.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SP 2020</div><img src='images/fastSideWindow.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Fast and efficient implementation of image filtering using a side window convolutional neural network](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yin_Side_Window_Filtering_CVPR_2019_paper.pdf) 
+[Fast and efficient implementation of image filtering using a side window convolutional neural network](https://doi.org/10.1016/j.sigpro.2020.107717) 
   
   Hui Yin, **Yuanhao Gong**, Guoping Qiu
   
@@ -111,6 +111,8 @@ Yuanhao is an Ass. Prof. at Shenzhen University since 2018. He received his B.S.
 [Side Window Filtering](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yin_Side_Window_Filtering_CVPR_2019_paper.pdf) 
   
   Hui Yin, **Yuanhao Gong**, Guoping Qiu
+  
+  IEEE/CVF Conference on Computer Vision and Pattern Recognition 2019
 </div>
 </div>
 
@@ -129,6 +131,8 @@ Yuanhao is an Ass. Prof. at Shenzhen University since 2018. He received his B.S.
 [Curvature Filters Efficiently Reduce Certain Variational Energies](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7835193) 
   
   **Yuanhao Gong**, Ivo F. Sbalzarini
+  
+  IEEE Transactions on Image Processing, 2017
 </div>
 </div>
 
@@ -137,6 +141,8 @@ Yuanhao is an Ass. Prof. at Shenzhen University since 2018. He received his B.S.
 [A Natural-Scene Gradient Distribution Prior and its Application in Light-Microscopy Image Processing](https://ieeexplore.ieee.org/abstract/document/7347339/) 
   
   **Yuanhao Gong**, Ivo F. Sbalzarini
+  
+  IEEE Journal of Selected Topics in Signal Processing, 2016
 </div>
 </div>
 
@@ -145,6 +151,8 @@ Yuanhao is an Ass. Prof. at Shenzhen University since 2018. He received his B.S.
 [Objective comparison of particle tracking methods](https://www.nature.com/articles/nmeth.2808) 
   
  N. Chenouard, I. Smal, F. Chaumont, M. Maška, I. Sbalzarini, **Y. Gong**, et al.
+  
+  Nature Methods, 2014
 </div>
 </div>
 
