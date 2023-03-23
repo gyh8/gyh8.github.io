@@ -97,7 +97,7 @@ Yuanhao is an Ass. Prof. at Shenzhen University since 2018. He received his B.S.
    IEEE International Conference on Image Processing (ICIP)
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SP 2020</div><img src='images/fastSideWindow.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SP 2020</div><img src='images/fastSideWindow.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Fast and efficient implementation of image filtering using a side window convolutional neural network](https://doi.org/10.1016/j.sigpro.2020.107717) 
   
