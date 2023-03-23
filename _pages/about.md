@@ -42,13 +42,31 @@ Yuanhao is an Ass. Prof. at Shenzhen University since 2018. He received his B.S.
   IEEE International Symposium on Biomedical Imaging 2023
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2022</div><img src='images/xhand.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2022</div><img src='images/mmm22.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [S-CCR: Super-Complete Comparative Representation for Low-Light Image Quality Inference In-the-wild](https://dl.acm.org/doi/abs/10.1145/3503161.3548083) 
 
   Miaohui Wang, Zhuowei Xu, **Yuanhao Gong**, Wuyuan Xie
   
-   Proceedings of the 30th ACM International Conference on Multimedia
+   The 30th ACM International Conference on Multimedia
+</div>
+</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MMSP 2022</div><img src='images/mmsp1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[A Novel Structure Adaptive Algorithm for Feature-preserving 3D Mesh Denoising](https://ieeexplore.ieee.org/abstract/document/9949062) 
+
+  Wenming Tang, **Yuanhao Gong**, Guoping Qiu
+  
+   IEEE 24th International Workshop on Multimedia Signal Processing
+</div>
+</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MMSP 2022</div><img src='images/mmsp2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Curvature-Based Real-time Brightness Adjustment for Ultra HD Video](https://ieeexplore.ieee.org/abstract/document/9949314/) 
+
+  Wenming Tang, Lebin Zhou, **Yuanhao Gong**
+  
+   IEEE 24th International Workshop on Multimedia Signal Processing
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IVC 2021</div><img src='images/msms.jpg' alt="sym" width="100%"></div></div>
@@ -56,6 +74,8 @@ Yuanhao is an Ass. Prof. at Shenzhen University since 2018. He received his B.S.
 [Motion saliency based multi-stream multiplier ResNets for action recognition](https://doi.org/10.1016/j.imavis.2021.104108) 
   
  Ming Zong, Ruili Wang, Xiubo Chen, Zhe Chen, **Yuanhao Gong**
+  
+  Image and Vision Computing, Volume 107, March 2021
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP 2021</div><img src='images/dswgc.jpg' alt="sym" width="100%"></div></div>
@@ -63,6 +83,26 @@ Yuanhao is an Ass. Prof. at Shenzhen University since 2018. He received his B.S.
 [A Discrete Scheme for Computing Image’s Weighted Gaussian Curvature](https://ieeexplore.ieee.org/abstract/document/9506611) 
   
  **Yuanhao Gong**, Wenming Tang, Lebin Zhou, Lantao Yu, Guoping Qiu
+  
+   IEEE International Conference on Image Processing (ICIP)
+</div>
+</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP 2021</div><img src='images/quarterL.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Quarter Laplacian filter for edge aware image processing](https://ieeexplore.ieee.org/abstract/document/9506503/) 
+  
+ **Yuanhao Gong**, Wenming Tang, Lebin Zhou, Lantao Yu, Guoping Qiu
+  
+   IEEE International Conference on Image Processing (ICIP)
+</div>
+</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SP 2020</div><img src='images/swf.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Fast and efficient implementation of image filtering using a side window convolutional neural network](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yin_Side_Window_Filtering_CVPR_2019_paper.pdf) 
+  
+  Hui Yin, **Yuanhao Gong**, Guoping Qiu
+  
+  Signal Processing, 176, 2020
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2019</div><img src='images/swf.png' alt="sym" width="100%"></div></div>
@@ -78,6 +118,8 @@ Yuanhao is an Ass. Prof. at Shenzhen University since 2018. He received his B.S.
 [Weighted Mean Curvature](https://doi.org/10.1016/j.sigpro.2019.06.020) 
   
 **Yuanhao Gong**, Orcun Goksel
+  
+  Signal Processing, 164, 2019
 </div>
 </div>
 
