@@ -18,7 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Yuanhao is an Ass. Prof. at Shenzhen University since 2018. He received his B.S. from Tsinghua University in 2007 and PhD from ETH Zuich in 2015. His research interests include image processing, deep learning and related numerical methods. He has published more than 60 papers with total <a href='https://scholar.google.com/citations?user=mZodcgwAAAAJ'>1700+ google scholar citations</a>.
-<div class='paper-box-image'><div><div class="badge">overall</div><img src='images/overall.jpg' alt="sym" width="100%"></div></div>
+
+<div class='paper-box-image'><div><div class="badge">overall research topics in our group</div><img src='images/overall.jpg' alt="sym" width="50%"></div></div>
 
 # 🔥 News
 - *2023.02*: &nbsp;🎉🎉 Two papers have been accepted at ISBI.
