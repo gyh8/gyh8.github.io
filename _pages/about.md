@@ -26,7 +26,7 @@ Yuanhao is an Ass. Prof. at Shenzhen University, China since 2018. He received h
 - *2023.02*: &nbsp;🎉🎉 Two papers have been accepted at ISBI.
 - *2022.10*: &nbsp;🎉 A paper has been accepted at ACM MM.
 
-# 📝 Publications (<a href='https://scholar.google.com/citations?user=mZodcgwAAAAJ'>Full List at Google Scholar</a>)
+# 📝 Publications <a href='https://scholar.google.com/citations?user=mZodcgwAAAAJ'>Full List (60+) at Google Scholar</a>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISBI 2023</div><img src='images/scatterLight.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Removing Scattered Light in Biomedical Images](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yin_Side_Window_Filtering_CVPR_2019_paper.pdf) 
