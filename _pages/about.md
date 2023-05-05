@@ -32,6 +32,7 @@ Yuanhao is an Ass. Prof. at Shenzhen University, China since 2018. He received h
 [Feature preserving 3D mesh denoising with a Dense Local Graph Neural Network](https://doi.org/10.1016/j.cviu.2023.103710) 
 
   Wenming Tang, **Yuanhao Gong**, Guoping Qiu
+  
   Computer Vision and Image Understanding 2023, Vol.233, 103710
 </div>
 </div>
