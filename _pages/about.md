@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yuanhao is an Ass. Prof. at Shenzhen University, China since 2018. He received his B.S. from Tsinghua University, China in 2007 and PhD from ETH Zuich, Switzerland in 2015. His research interests include image processing, deep learning and related numerical methods. He has published more than 60 papers with total <a href='https://scholar.google.com/citations?user=mZodcgwAAAAJ'>1800+ google scholar citations</a>.
+Yuanhao is an Ass. Prof. at Shenzhen University, China since 2018. He received his B.S. from Tsinghua University, China in 2007 and PhD from ETH Zuich, Switzerland in 2015. His research interests include image processing, deep learning and related numerical methods. He has published more than 70 papers with total <a href='https://scholar.google.com/citations?user=mZodcgwAAAAJ'>1800+ google scholar citations</a>.
 
 <div class='paper-box-image'><div><div class="badge">overall research topics</div><img src='images/overall.jpg' alt="sym" width="50%"></div></div>
 
@@ -25,8 +25,9 @@ Yuanhao is an Ass. Prof. at Shenzhen University, China since 2018. He received h
 - *2023.05*: &nbsp;🎉 A paper has been accepted at Computer Vision and Image Understanding.
 - *2023.02*: &nbsp;🎉🎉 Two papers have been accepted at ISBI.
 - *2022.10*: &nbsp;🎉 A paper has been accepted at ACM MM.
+- Active Reviewer for T-PAMI, T-IP, CVPR, ICCV, etc.
 
-# 📝 Publications <a href='https://scholar.google.com/citations?user=mZodcgwAAAAJ'>Full List (60+) at Google Scholar</a>
+# 📝 Publications <a href='https://scholar.google.com/citations?user=mZodcgwAAAAJ'>Full List (70+) at Google Scholar</a>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVIU 2023</div><img src='images/dognet.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Feature preserving 3D mesh denoising with a Dense Local Graph Neural Network](https://doi.org/10.1016/j.cviu.2023.103710) 
