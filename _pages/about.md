@@ -23,11 +23,22 @@ Yuanhao is an Ass. Prof. at Shenzhen University, China since 2018. He received h
 
 # 🔥 News
 - *2023.05*: &nbsp;🎉 A paper has been accepted at Computer Vision and Image Understanding.
+- *2023.05*: &nbsp;invited as editor of AJPS (impact factor 9.27).
 - *2023.02*: &nbsp;🎉🎉 Two papers have been accepted at ISBI.
 - *2022.10*: &nbsp;🎉 A paper has been accepted at ACM MM.
 - Active Reviewer for T-PAMI, T-IP, CVPR, ICCV, etc.
 
 # 📝 Publications <a href='https://scholar.google.com/citations?user=mZodcgwAAAAJ'>Full List (70+) at Google Scholar</a>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2017</div><img src='images/cf.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Curvature Filters Efficiently Reduce Certain Variational Energies (🔥🔥Top50 paper at TIP)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7835193) 
+  
+  **Yuanhao Gong**, Ivo F. Sbalzarini
+  
+  IEEE Transactions on Image Processing, 2017
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVIU 2023</div><img src='images/dognet.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Feature preserving 3D mesh denoising with a Dense Local Graph Neural Network](https://doi.org/10.1016/j.cviu.2023.103710) 
@@ -135,16 +146,6 @@ Yuanhao is an Ass. Prof. at Shenzhen University, China since 2018. He received h
 **Yuanhao Gong**, Orcun Goksel
   
   Signal Processing, 164, 2019
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2017</div><img src='images/cf.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Curvature Filters Efficiently Reduce Certain Variational Energies](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7835193) 
-  
-  **Yuanhao Gong**, Ivo F. Sbalzarini
-  
-  IEEE Transactions on Image Processing, 2017
 </div>
 </div>
 
