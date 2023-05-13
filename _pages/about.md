@@ -31,7 +31,7 @@ Yuanhao is an Ass. Prof. at Shenzhen University, China since 2018. He received h
 # 📝 Publications <a href='https://scholar.google.com/citations?user=mZodcgwAAAAJ'>Full List (70+) at Google Scholar</a>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2017</div><img src='images/cf.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Curvature Filters Efficiently Reduce Certain Variational Energies (🔥🔥Top50 paper at TIP)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7835193) 
+[Curvature Filters Efficiently Reduce Certain Variational Energies](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7835193) (🔥🔥🔥Top50 paper at TIP)
   
   **Yuanhao Gong**, Ivo F. Sbalzarini
   
