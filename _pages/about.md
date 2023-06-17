@@ -22,7 +22,7 @@ Yuanhao is an Ass. Prof. at Shenzhen University, China since 2018. Before that, 
 <div class='paper-box-image'><div><div class="badge">overall research topics</div><img src='images/overall.jpg' alt="sym" width="50%"></div></div>
 
 # 🔥 News
-- *2023.05*: &nbsp;🎉 A paper has been accepted at Computer Vision and Image Understanding.
+- *2023.06*: &nbsp;🎉 A paper has been accepted at Computer Vision and Image Understanding.
 - *2023.05*: &nbsp;invited as editor of AJPS (impact factor 9.27).
 - *2023.02*: &nbsp;🎉🎉 Two papers have been accepted at ISBI.
 - *2022.10*: &nbsp;🎉 A paper has been accepted at ACM MM.
