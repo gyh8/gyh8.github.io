@@ -17,18 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yuanhao is an Ass. Prof. at Shenzhen University, China since 2018. Before that, he was a senior scientist at ETH Zurich, Switzerland. He received his B.S. from Tsinghua University, China in 2007 and PhD from ETH Zuich, Switzerland in 2015, respectively. He has published more than 70 papers in image processing and deep learning with total <a href='https://scholar.google.com/citations?user=mZodcgwAAAAJ'>1800+ google scholar citations</a>.
+Yuanhao is an Ass. Prof. at Shenzhen University, China since 2018. Before that, he was a senior scientist at ETH Zurich, Switzerland. He received his B.S. from Tsinghua University, China in 2007 and PhD from ETH Zuich, Switzerland in 2015, respectively. He has published more than 80 papers in image processing and deep learning with total <a href='https://scholar.google.com/citations?user=mZodcgwAAAAJ'>1900+ google scholar citations</a>.
 
 <div class='paper-box-image'><div><div class="badge">overall research topics</div><img src='images/overall.jpg' alt="sym" width="50%"></div></div>
 
 # 🔥 News
-- *2023.06*: &nbsp;🎉 A paper has been accepted at Computer Vision and Image Understanding.
-- *2023.05*: &nbsp;invited as editor of AJPS (impact factor 9.27).
-- *2023.02*: &nbsp;🎉🎉 Two papers have been accepted at ISBI.
-- *2022.10*: &nbsp;🎉 A paper has been accepted at ACM MM.
+- *2023.07*: &nbsp;invited as PC of AAAI2024.
+- *2023.07*: &nbsp;invited as editor of AJPS (impact factor 10.2).
+- *2023.07*: &nbsp;🎉🎉🎉 Three papers are accepted at ICIP2023.
+- *2023.06*: &nbsp;🎉 One paper has been accepted at Computer Vision and Image Understanding.
+- *2023.02*: &nbsp;🎉🎉 Two papers have been accepted at ISBI2023.
+- *2022.10*: &nbsp;🎉 One paper has been accepted at ACM MM.
 - Active Reviewer for T-PAMI, T-IP, CVPR, ICCV, etc.
 
-# 📝 Publications <a href='https://scholar.google.com/citations?user=mZodcgwAAAAJ'>Full List (70+) at Google Scholar</a>
+# 📝 Publications <a href='https://scholar.google.com/citations?user=mZodcgwAAAAJ'>Full List (80+) at Google Scholar</a>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2017</div><img src='images/cf.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Curvature Filters Efficiently Reduce Certain Variational Energies](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7835193) (🔥🔥🔥Top50 paper at TIP)
