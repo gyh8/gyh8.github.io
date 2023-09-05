@@ -52,7 +52,7 @@ Yuanhao is an Ass. Prof. at Shenzhen University, China since 2018. Before that, 
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISBI 2023</div><img src='images/scatterLight.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Removing Scattered Light in Biomedical Images](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yin_Side_Window_Filtering_CVPR_2019_paper.pdf) 
+[Removing Scattered Light in Biomedical Images](https://ieeexplore.ieee.org/document/10230506)
 
   **Yuanhao Gong**, Wanlin Huang, Wenhui Wu
   
@@ -61,7 +61,7 @@ Yuanhao is an Ass. Prof. at Shenzhen University, China since 2018. Before that, 
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISBI 2023</div><img src='images/xhand.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[3D Hand Bones and Tissue Estimation from A Single 2D X-ray Image via A Two-stream Deep Neural Network](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yin_Side_Window_Filtering_CVPR_2019_paper.pdf) 
+[3D Hand Bones and Tissue Estimation from A Single 2D X-ray Image via A Two-stream Deep Neural Network](https://ieeexplore.ieee.org/document/10230591)
 
   Wanlin Huang, Wenhui Wu, **Yuanhao Gong**
   
