@@ -22,12 +22,12 @@ Yuanhao is an Ass. Prof. at Shenzhen University, China since 2018. Before that, 
 <div class='paper-box-image'><div><div class="badge">overall research topics</div><img src='images/overall.jpg' alt="sym" width="50%"></div></div>
 
 # 🔥 News
-- *2023.07*: &nbsp;invited as PC of AAAI2024.
-- *2023.07*: &nbsp;invited as editor of AJPS (impact factor 10.2).
-- *2023.07*: &nbsp;🎉🎉🎉 Three papers are accepted at ICIP2023.
+- *2023.09*: &nbsp;🎉🎉🎉 Three papers are accepted at ICIP2023.
+- *2023.08*: &nbsp;🎉 One paper has been accepted at ACM MM.
+- *2023.08*: &nbsp;invited as PC of AAAI2024.
+- *2023.08*: &nbsp;invited as editor of AJPS (impact factor 10.2).
 - *2023.06*: &nbsp;🎉 One paper has been accepted at Computer Vision and Image Understanding.
 - *2023.02*: &nbsp;🎉🎉 Two papers have been accepted at ISBI2023.
-- *2022.10*: &nbsp;🎉 One paper has been accepted at ACM MM.
 - Active Reviewer for T-PAMI, T-IP, CVPR, ICCV, etc.
 
 # 📝 Publications <a href='https://scholar.google.com/citations?user=mZodcgwAAAAJ'>Full List (80+) at Google Scholar</a>
@@ -38,6 +38,22 @@ Yuanhao is an Ass. Prof. at Shenzhen University, China since 2018. Before that, 
   **Yuanhao Gong**, Ivo F. Sbalzarini
   
   IEEE Transactions on Image Processing, 2017
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP2023</div><img src='images/tvgf.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Imposing Total Variation Prior Into Guided Filter](https://ieeexplore.ieee.org/document/10222506)
+  
+  **Yuanhao Gong**
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP2023</div><img src='images/mrs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[A Multiscale Residual Solver for Total Variation Models](https://ieeexplore.ieee.org/document/10223111)
+  
+  **Yuanhao Gong**
 </div>
 </div>
 
