@@ -22,6 +22,7 @@ Yuanhao is an Ass. Prof. at Shenzhen University, China since 2018. Before that, 
 <div class='paper-box-image'><div><div class="badge">overall research topics</div><img src='images/overall.jpg' alt="sym" width="50%"></div></div>
 
 # 🔥 News
+- *2023.11*: &nbsp;🎉 One paper has been accepted at computer graphics forum.
 - *2023.09*: &nbsp;🎉🎉🎉 Three papers are accepted at ICIP2023.
 - *2023.08*: &nbsp;🎉 One paper has been accepted at ACM MM.
 - *2023.08*: &nbsp;invited as PC of AAAI2024.
@@ -30,7 +31,7 @@ Yuanhao is an Ass. Prof. at Shenzhen University, China since 2018. Before that, 
 - *2023.02*: &nbsp;🎉🎉 Two papers have been accepted at ISBI2023.
 - Active Reviewer for T-PAMI, T-IP, CVPR, ICCV, etc.
 
-# 📝 Publications <a href='https://scholar.google.com/citations?user=mZodcgwAAAAJ'>Full List (80+) at Google Scholar</a>
+# 📝 Publications <a href='https://scholar.google.com/citations?user=mZodcgwAAAAJ'>Full List (90+) at Google Scholar</a>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2017</div><img src='images/cf.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Curvature Filters Efficiently Reduce Certain Variational Energies](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7835193) (🔥🔥🔥Top50 paper at TIP)
@@ -38,6 +39,16 @@ Yuanhao is an Ass. Prof. at Shenzhen University, China since 2018. Before that, 
   **Yuanhao Gong**, Ivo F. Sbalzarini
   
   IEEE Transactions on Image Processing, 2017
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CGF2023</div><img src='images/cgf2023.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Curvature-driven Multi-stream Network for Feature-preservingMesh Denoising](https://doi.org/10.1111/cgf.14993)
+  
+Zhibo Zhao, Wenming Tang, **Yuanhao Gong**
+
+Comuter Graphics Forum, 23 November 2023
 </div>
 </div>
 
