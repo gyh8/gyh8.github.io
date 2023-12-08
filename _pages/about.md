@@ -22,10 +22,10 @@ Yuanhao is an Ass. Prof. at Shenzhen University, China since 2018. Before that, 
 <div class='paper-box-image'><div><div class="badge">overall research topics</div><img src='images/overall.jpg' alt="sym" width="50%"></div></div>
 
 # 🔥 News
+- *2023.12*: &nbsp;🎉🎉 Two papers are accepted at IEEE EMBS datascience.
 - *2023.11*: &nbsp;🎉 One paper has been accepted at computer graphics forum.
 - *2023.09*: &nbsp;🎉🎉🎉 Three papers are accepted at ICIP2023.
 - *2023.08*: &nbsp;🎉 One paper has been accepted at ACM MM.
-- *2023.08*: &nbsp;invited as PC of AAAI2024.
 - *2023.08*: &nbsp;invited as editor of AJPS (impact factor 10.2).
 - *2023.06*: &nbsp;🎉 One paper has been accepted at Computer Vision and Image Understanding.
 - *2023.02*: &nbsp;🎉🎉 Two papers have been accepted at ISBI2023.
@@ -48,7 +48,7 @@ Yuanhao is an Ass. Prof. at Shenzhen University, China since 2018. Before that, 
   
 Zhibo Zhao, Wenming Tang, **Yuanhao Gong**
 
-Comuter Graphics Forum, 23 November 2023
+Computer Graphics Forum, 23 November 2023
 </div>
 </div>
 
