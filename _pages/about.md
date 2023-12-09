@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yuanhao is an Ass. Prof. at Shenzhen University, China since 2018. Before that, he was a senior scientist at ETH Zurich, Switzerland. He received his B.S. from Tsinghua University, China in 2007 and PhD from ETH Zuich, Switzerland in 2015, respectively. He has published more than 90 papers in :microscope:`computer vision`, :beach_umbrella:`computer graphics` and :cake:`optimization algorithms` with total <a href='https://scholar.google.com/citations?user=mZodcgwAAAAJ'>2260+ google scholar citations</a>.
+Yuanhao is an Ass. Prof. at Shenzhen University, China since 2018. Before that, he was a senior scientist at ETH Zurich, Switzerland. He received his B.S. from Tsinghua University, China in 2007 and PhD from ETH Zuich, Switzerland in 2015, respectively. He has published more than 90 papers in `computer vision`, `computer graphics` and `optimization algorithms` with total <a href='https://scholar.google.com/citations?user=mZodcgwAAAAJ'>2260+ google scholar citations</a>.
 
 <div class='paper-box-image'><div><div class="badge">overall research topics</div><img src='images/overall.jpg' alt="sym" width="50%"></div></div>
 
