@@ -22,7 +22,8 @@ Yuanhao Gong(龚元浩) is an Ass. Prof. at Shenzhen University, China since 201
 <div class='paper-box-image'><div><div class="badge">research</div><img src='images/overall.jpg' alt="sym" width="50%"></div></div>
 
 # 🔥 News
-- *2024.02*: invited by EG(https://eg2024.cyens.org.cy)- *2023.12*: &nbsp;Three papers are accepted at IEEE EMBS datascience.
+- *2024.02*: invited by EG2024(https://eg2024.cyens.org.cy)
+- *2023.12*: &nbsp;Three papers are accepted at IEEE EMBS datascience.
 - *2023.11*: &nbsp;🎉 One paper has been accepted at computer graphics forum.
 - *2023.09*: &nbsp;🎉🎉🎉 Three papers are accepted at ICIP2023.
 - *2023.08*: &nbsp;🎉 One paper has been accepted at ACM MM.
