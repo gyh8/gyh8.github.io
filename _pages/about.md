@@ -42,7 +42,7 @@ Yuanhao Gong(龚元浩) is an Ass. Prof. at Shenzhen University, China since 201
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CGF2023</div><img src='images/cgf2023.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CGF2024</div><img src='images/cgf2023.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Curvature-driven Multi-stream Network for Feature-preservingMesh Denoising](https://doi.org/10.1111/cgf.14993)
   
