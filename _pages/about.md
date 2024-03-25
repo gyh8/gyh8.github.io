@@ -17,19 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yuanhao Gong(龚元浩) is an Ass. Prof. at Shenzhen University, China since 2018. Before that, he was a senior scientist at ETH Zurich, Switzerland. He received his B.S. from Tsinghua University, China in 2007 and PhD from ETH Zuich, Switzerland in 2015, respectively. He has published more than 90 papers in `1) computer vision`, `2) computer graphics` and `3) optimization algorithms` with total <a href='https://scholar.google.com/citations?user=mZodcgwAAAAJ'>2300+ google scholar citations</a>.
+Yuanhao Gong(龚元浩) is an Ass. Prof. at Shenzhen University, China since 2018. He received his B.S. from Tsinghua University, China in 2007 and PhD from ETH Zuich, Switzerland in 2015, respectively. He has published more than 90 papers in `1) computer vision`, `2) computer graphics` and `3) optimization algorithms` with total <a href='https://scholar.google.com/citations?user=mZodcgwAAAAJ'>2300+ google scholar citations</a>.
 
-<div class='paper-box-image'><div><div class="badge">research</div><img src='images/overall.jpg' alt="sym" width="50%"></div></div>
+<div class='paper-box-image'><div><div class="badge"></div><img src='images/overall.jpg' alt="sym" width="50%"></div></div>
 
 # 🔥 News
-- *2024.02*: invited by EuroGraphics(https://eg2024.cyens.org.cy)
-- *2023.12*: &nbsp;Three papers are accepted at IEEE EMBS datascience.
+- *2024.03*: invited by EuroGraphics(https://eg2024.cyens.org.cy)
+- *2024.01*: &nbsp;Three papers are accepted at IEEE EMBS datascience.
 - *2023.11*: &nbsp;🎉 One paper has been accepted at computer graphics forum.
 - *2023.09*: &nbsp;🎉🎉🎉 Three papers are accepted at ICIP2023.
 - *2023.08*: &nbsp;🎉 One paper has been accepted at ACM MM.
 - *2023.08*: &nbsp;invited as editor of AJPS (impact factor 10.2).
 - *2023.06*: &nbsp;🎉 One paper has been accepted at Computer Vision and Image Understanding.
-- *2023.02*: &nbsp;🎉🎉 Two papers have been accepted at ISBI2023.
 - Active Reviewer for T-PAMI, T-IP, CVPR, ICCV, etc.
 
 # 📝 Publications <a href='https://scholar.google.com/citations?user=mZodcgwAAAAJ'>Full List (90+) at Google Scholar</a>
@@ -49,7 +48,7 @@ Yuanhao Gong(龚元浩) is an Ass. Prof. at Shenzhen University, China since 201
   
 Zhibo Zhao, Wenming Tang, **Yuanhao Gong**
 
-Computer Graphics Forum, 23 November 2023
+Computer Graphics Forum, 2024
 </div>
 </div>
 
