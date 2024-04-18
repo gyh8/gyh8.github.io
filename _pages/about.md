@@ -22,13 +22,13 @@ Yuanhao Gong(龚元浩) is an Ass. Prof. at Shenzhen University, China since 201
 <div class='paper-box-image'><div><div class="badge"></div><img src='images/overall.jpg' alt="sym" width="50%"></div></div>
 
 # 🔥 News
+- *2024.04*: &nbsp;🎉 One paper has been accepted at ISPRS (IF=12.7).
 - *2024.03*: invited by EuroGraphics(https://eg2024.cyens.org.cy)
 - *2024.01*: &nbsp;Three papers are accepted at IEEE EMBS datascience.
 - *2023.11*: &nbsp;🎉 One paper has been accepted at computer graphics forum.
 - *2023.09*: &nbsp;🎉🎉🎉 Three papers are accepted at ICIP2023.
 - *2023.08*: &nbsp;🎉 One paper has been accepted at ACM MM.
 - *2023.08*: &nbsp;invited as editor of AJPS (impact factor 10.2).
-- *2023.06*: &nbsp;🎉 One paper has been accepted at Computer Vision and Image Understanding.
 - Active Reviewer for T-PAMI, T-IP, CVPR, ICCV, etc.
 
 # 📝 Publications <a href='https://scholar.google.com/citations?user=mZodcgwAAAAJ'>Full List (90+) at Google Scholar</a>
