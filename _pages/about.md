@@ -220,5 +220,8 @@ Computer Graphics Forum, 2024
 # 📖 Educations
 - PhD from ETH Zurich(2015), M.S from Xiamen University(2010), B.S. from Tsinghua University(2007)
 
-# 💬 Invited Talks
-- *2022.05*, Curvature Filters Can Efficiently  Minimize Curvatures, Tianjin University
+# 💬 Students
+- Zewei Lin, Shenzhen University, 2021-2024. Tencent(2024-)
+- Wanlin Huang, Shenzhen University, 2021-2024. Hongkong(2024-)
+- Zhibao Zhao, Shenzhen University, 2021-2024. ByteDance(2024-)
+- Samel, ETH Zurich, 2017-2018. PhD student at Oxford University
