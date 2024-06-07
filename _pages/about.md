@@ -224,4 +224,4 @@ Computer Graphics Forum, 2024
 - Zewei Lin, Shenzhen University, 2021-2024. Tencent(2024-)
 - Wanlin Huang, Shenzhen University, 2021-2024. Hongkong(2024-)
 - Zhibao Zhao, Shenzhen University, 2021-2024. ByteDance(2024-)
-- Samel, ETH Zurich, 2017-2018. PhD student at Oxford University
+- Samel, ETH Zurich, 2017-2018. PhD student at Oxford University (2018-2022)
