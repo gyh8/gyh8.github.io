@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yuanhao Gong(龚元浩) is an Ass. Prof. at Shenzhen University, China since 2018. He received his B.S. from Tsinghua University, China in 2007 and PhD from ETH Zuich, Switzerland in 2015, respectively. He has published more than 90 papers in `1) computer vision`, `2) computer graphics` and `3) optimization algorithms` with total <a href='https://scholar.google.com/citations?user=mZodcgwAAAAJ'>2300+ google scholar citations</a>.
+Yuanhao Gong(龚元浩) is an Ass. Prof. at Shenzhen University, China since 2018. He received his B.S. from Tsinghua University, China in 2007 and PhD from ETH Zuich, Switzerland in 2015, respectively. He has published more than 90 papers in `1) computer vision`, `2) computer graphics` and `3) optimization algorithms` with total <a href='https://scholar.google.com/citations?user=mZodcgwAAAAJ'>2400+ google scholar citations</a>.
 
 <div class='paper-box-image'><div><div class="badge"></div><img src='images/overall.jpg' alt="sym" width="50%"></div></div>
 
