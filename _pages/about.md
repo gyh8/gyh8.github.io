@@ -17,17 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yuanhao Gong(龚元浩) is an Ass. Prof. at Shenzhen University, China since 2018. He received his B.S. from Tsinghua University, China in 2007 and PhD from ETH Zuich, Switzerland in 2015, respectively. He has published more than 90 papers in `1) computer vision`, `2) computer graphics` and `3) optimization algorithms` with total <a href='https://scholar.google.com/citations?user=mZodcgwAAAAJ'>2400+ google scholar citations</a>.
+Yuanhao Gong(龚元浩) is an Ass. Prof. at Shenzhen University, China since 2018. He received his B.S. from Tsinghua University, China in 2007 and PhD from ETH Zuich, Switzerland in 2015, respectively. He has published more than 90 papers in `1) computer vision`, `2) computer graphics` and `3) optimization algorithms` with total <a href='https://scholar.google.com/citations?user=mZodcgwAAAAJ'>2500+ google scholar citations</a>.
 
 <div class='paper-box-image'><div><div class="badge"></div><img src='images/overall.jpg' alt="sym" width="50%"></div></div>
 
 # 🔥 News
-- *2024.06*: &nbsp;🎉🎉 Two papers have been accepted at ICIP2024.
+- *2024.09*: &nbsp;🎉One paper has been accepted by IEEE Sensors Journal.
 - *2024.06*: invited as session chair at HP3C 2024.
 - *2024.04*: &nbsp;🎉 One paper has been accepted at ISPRS (IF=12.7).
 - *2024.03*: invited by EuroGraphics(https://eg2024.cyens.org.cy)
 - *2024.01*: &nbsp;Three papers are accepted at IEEE EMBS datascience.
-- *2023.11*: &nbsp;🎉 One paper has been accepted at computer graphics forum.
+- *2024.01*: &nbsp;🎉 One paper has been accepted at computer graphics forum.
 - *2023.08*: &nbsp;invited as editor of AJPS (impact factor 10.2).
 - Active Reviewer for Nature, Nature Methods, T-PAMI, T-IP, CVPR, ICCV, etc.
 
