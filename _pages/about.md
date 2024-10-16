@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yuanhao Gong(龚元浩) is an Ass. Prof. at Shenzhen University, China since 2018. He received his B.S. from Tsinghua University, China in 2007 and PhD from ETH Zuich, Switzerland in 2015, respectively. He has published more than 90 papers in `1) computer vision`, `2) computer graphics` and `3) optimization algorithms` with total <a href='https://scholar.google.com/citations?user=mZodcgwAAAAJ'>2500+ google scholar citations</a>.
+Yuanhao Gong(龚元浩) received his B.S. from Tsinghua University, China in 2007 and PhD from ETH Zuich, Switzerland in 2015, respectively. He has published more than 100 papers in `1) computer vision`, `2) computer graphics` and `3) optimization algorithms` with total <a href='https://scholar.google.com/citations?user=mZodcgwAAAAJ'>2600+ google scholar citations</a>.
 
 <div class='paper-box-image'><div><div class="badge"></div><img src='images/overall.jpg' alt="sym" width="50%"></div></div>
 
@@ -222,6 +222,9 @@ Computer Graphics Forum, 2024
 
 # 💬 Students
 - Zewei Lin, Shenzhen University, 2021-2024. Tencent(2024-)
+
+- Zhibo Zhao, Shenzhen University, 2021-2024. ByteDance(2024-)
+
 - Wanlin Huang, Shenzhen University, 2021-2024. Hongkong(2024-)
-- Zhibao Zhao, Shenzhen University, 2021-2024. ByteDance(2024-)
+
 - Samel, ETH Zurich, 2017-2018. PhD student at Oxford University (2018-2022)
