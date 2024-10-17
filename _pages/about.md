@@ -26,7 +26,6 @@ Yuanhao Gong(龚元浩) received his B.S. from Tsinghua University, China in 200
 - *2024.06*: invited as session chair at HP3C 2024.
 - *2024.04*: &nbsp;🎉 One paper has been accepted at ISPRS (IF=12.7).
 - *2024.03*: invited by EuroGraphics(https://eg2024.cyens.org.cy)
-- *2024.01*: &nbsp;Three papers are accepted at IEEE EMBS datascience.
 - *2024.01*: &nbsp;🎉 One paper has been accepted at computer graphics forum.
 - *2023.08*: &nbsp;invited as editor of AJPS (impact factor 10.2).
 - Active Reviewer for Nature, Nature Methods, T-PAMI, T-IP, CVPR, ICCV, etc.
@@ -226,5 +225,7 @@ Computer Graphics Forum, 2024
 - Zhibo Zhao, Shenzhen University, 2021-2024. ByteDance(2024-)
 
 - Wanlin Huang, Shenzhen University, 2021-2024. Hongkong(2024-)
+
+- Lebin Zhou, Shenzhen University, 2018-2022, University of California(2022-)
 
 - Samel, ETH Zurich, 2017-2018. PhD student at Oxford University (2018-2022)
