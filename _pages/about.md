@@ -217,7 +217,9 @@ Computer Graphics Forum, 2024
 - *2012.05* Best Paper Award, IEEE Signal Processing Society
 
 # 📖 Educations
-- PhD from ETH Zurich(2015), M.S from Xiamen University(2010), B.S. from Tsinghua University(2007)
+- 2011-2015, PhD from ETH Zurich
+- 2007-2010, M.S from Xiamen University
+- 2003-2007, B.S. from Tsinghua University
 
 # 💬 Students
 - Zewei Lin, Shenzhen University, 2021-2024. Tencent(2024-)
