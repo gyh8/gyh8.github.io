@@ -38,7 +38,7 @@ Yuanhao Gong(龚元浩) received his B.S. from <a href='https://www.tsinghua.edu
   
  N. Chenouard, I. Smal, F. Chaumont, M. Maška, I. Sbalzarini, **Y. Gong**, et al.
   
-  Nature Methods, 2014
+  <p style="color:rgb(166,0,0);">Nature Methods</p>, 2014
 </div>
 </div>
 
