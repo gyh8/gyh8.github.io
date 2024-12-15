@@ -31,6 +31,17 @@ Yuanhao Gong(龚元浩) received his B.S. from <a href='https://www.tsinghua.edu
 - Active Reviewer for Nature, Nature Methods, T-PAMI, T-IP, CVPR, ICCV, etc.
 
 # 📝 Publications <a href='https://scholar.google.com/citations?user=mZodcgwAAAAJ'>Full List (100+) at Google Scholar</a>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Methods 2014</div><img src='images/nature.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Objective comparison of particle tracking methods](https://www.nature.com/articles/nmeth.2808) 
+  
+ N. Chenouard, I. Smal, F. Chaumont, M. Maška, I. Sbalzarini, **Y. Gong**, et al.
+  
+  Nature Methods, 2014
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2017</div><img src='images/cf.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Curvature Filters Efficiently Reduce Certain Variational Energies](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7835193) (🔥🔥🔥Top50 paper at TIP)
@@ -184,16 +195,6 @@ Computer Graphics Forum, 2024
   **Yuanhao Gong**, Ivo F. Sbalzarini
   
   IEEE Journal of Selected Topics in Signal Processing, 2016
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Methods 2014</div><img src='images/nature.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Objective comparison of particle tracking methods](https://www.nature.com/articles/nmeth.2808) 
-  
- N. Chenouard, I. Smal, F. Chaumont, M. Maška, I. Sbalzarini, **Y. Gong**, et al.
-  
-  Nature Methods, 2014
 </div>
 </div>
 
