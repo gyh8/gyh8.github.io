@@ -223,12 +223,12 @@ Computer Graphics Forum, 2024
 - 2003-2007, B.S. from Tsinghua University
 
 # 💬 Students
-- Zewei Lin, Shenzhen University, 2021-2024. Tencent(2024-)
+- Zewei Lin, Shenzhen University, 2021-2024, $\rightarrow$ Tencent(2024-)
 
-- Zhibo Zhao, Shenzhen University, 2021-2024. ByteDance(2024-)
+- Zhibo Zhao, Shenzhen University, 2021-2024, $\rightarrow$ ByteDance(2024-)
 
-- Wanlin Huang, Shenzhen University, 2021-2024. Hongkong(2024-)
+- Wanlin Huang, Shenzhen University, 2021-2024, $\rightarrow$ Hongkong(2024-)
 
-- Lebin Zhou, Shenzhen University, 2018-2022, University of California(2022-)
+- Lebin Zhou, Shenzhen University, 2018-2022, $\rightarrow$ University of California(2022-)
 
-- Samel, ETH Zurich, 2017-2018. PhD student at Oxford University (2018-2022)
+- Samel, ETH Zurich, 2017-2018, $\rightarrow$ PhD student at Oxford University (2018-2022)
