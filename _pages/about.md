@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yuanhao Gong(龚元浩) received his B.S. from <a href='https://www.tsinghua.edu.cn/en/'>Tsinghua University</a>, China in 2007 and PhD from <a href='https://ethz.ch/en.html'>ETH Zuich</a>, Switzerland in 2015, respectively. He has published more than 100 papers in `1) computer vision`, `2) computer graphics` and `3) optimization algorithms` with total <a href='https://scholar.google.com/citations?user=mZodcgwAAAAJ'>2700+ google scholar citations</a>. World Top 2% Scientist.
+Yuanhao Gong(龚元浩) received his B.S. from <a href='https://www.tsinghua.edu.cn/en/'>Tsinghua University</a>, China in 2007 and PhD from <a href='https://ethz.ch/en.html'>ETH Zuich</a>, Switzerland in 2015, respectively. He has published more than 100 papers in `1) computer vision`, `2) computer graphics`, `3) computing` and `4) optimization algorithms` with total <a href='https://scholar.google.com/citations?user=mZodcgwAAAAJ'>2700+ google scholar citations</a>. World Top 2% Scientist.
 
 <div class='paper-box-image'><div><div class="badge"></div><img src='images/overall.jpg' alt="sym" width="50%"></div></div>
 
