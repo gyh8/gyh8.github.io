@@ -22,7 +22,7 @@ Yuanhao Gong(龚元浩) received his B.S. from <a href='https://www.tsinghua.edu
 <div class='paper-box-image'><div><div class="badge"></div><img src='images/overall.jpg' alt="sym" width="50%"></div></div>
 
 # 🔥 News
-- *2025.05*: moved to CIOMP at Changchun, starting a new group. Join us!
+- *2025.05*: moved to CIOMP at Changchun, starting a new group. Join us via gong.ai@qq.com !
 - *2024.09*: &nbsp;🎉One paper has been accepted by IEEE Sensors Journal.
 - *2024.04*: &nbsp;🎉 One paper has been accepted at ISPRS (IF=12.7).
 - *2024.03*: invited by EuroGraphics(https://eg2024.cyens.org.cy)
