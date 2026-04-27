@@ -30,8 +30,14 @@ Yuanhao Gong(龚元浩) received his B.S. from <a href='https://www.tsinghua.edu
 - *2023.08*: &nbsp;invited as editor of AJPS (impact factor 10.2).
 - Active Reviewer for Nature, Nature Methods, T-PAMI, T-IP, CVPR, ICCV, etc.
 
-# 📝 Publications <a href='https://scholar.google.com/citations?user=mZodcgwAAAAJ'>Full List (100+) at Google Scholar</a>
-
+# 📝 Papers during PhD
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISBI 2012</div><img src='images/csdf.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Coupled signed-distance functions for implicit surface reconstruction](https://ieeexplore.ieee.org/abstract/document/6235726) 
+  
+  **Yuanhao Gong**, Gregory Paul, Ivo F. Sbalzarini
+</div>
+</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Methods 2014</div><img src='images/nature.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Objective comparison of particle tracking methods](https://www.nature.com/articles/nmeth.2808) 
@@ -52,6 +58,7 @@ Yuanhao Gong(龚元浩) received his B.S. from <a href='https://www.tsinghua.edu
 </div>
 </div>
 
+# 📝 Recent Publications <a href='https://scholar.google.com/citations?user=mZodcgwAAAAJ'>Full List (100+) at Google Scholar</a>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CGF2024</div><img src='images/cgf2023.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Curvature-driven Multi-stream Network for Feature-preservingMesh Denoising](https://doi.org/10.1111/cgf.14993)
@@ -206,13 +213,7 @@ Computer Graphics Forum, 2024
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISBI 2012</div><img src='images/csdf.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Coupled signed-distance functions for implicit surface reconstruction](https://ieeexplore.ieee.org/abstract/document/6235726) 
-  
-  **Yuanhao Gong**, Gregory Paul, Ivo F. Sbalzarini
-</div>
-</div>
+
 # 🎖 Honors and Awards
 - *2018.09* Shenzhen High Caliber Personnel
 - *2012.05* Best Paper Award, IEEE Signal Processing Society
