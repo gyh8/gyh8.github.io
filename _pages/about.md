@@ -31,13 +31,7 @@ Yuanhao Gong(龚元浩) received his B.S. from <a href='https://www.tsinghua.edu
 - Active Reviewer for Nature, Nature Methods, T-PAMI, T-IP, CVPR, ICCV, etc.
 
 # 📝 Papers during PhD
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISBI 2012</div><img src='images/csdf.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Coupled signed-distance functions for implicit surface reconstruction](https://ieeexplore.ieee.org/abstract/document/6235726) 
-  
-  **Yuanhao Gong**, Gregory Paul, Ivo F. Sbalzarini
-</div>
-</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Methods 2014</div><img src='images/nature.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Objective comparison of particle tracking methods](https://www.nature.com/articles/nmeth.2808) 
@@ -214,6 +208,13 @@ Computer Graphics Forum, 2024
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISBI 2012</div><img src='images/csdf.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Coupled signed-distance functions for implicit surface reconstruction](https://ieeexplore.ieee.org/abstract/document/6235726) 
+  
+  **Yuanhao Gong**, Gregory Paul, Ivo F. Sbalzarini
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2018.09* Shenzhen High Caliber Personnel
