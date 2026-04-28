@@ -54,6 +54,16 @@ Yuanhao Gong(龚元浩) received his B.S. from <a href='https://www.tsinghua.edu
 
 # 📝 Recent Publications <a href='https://scholar.google.com/citations?user=mZodcgwAAAAJ'>Full List (100+) at Google Scholar</a>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE 2025</div><img src='images/osbf.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[OSBF: One-Sided Box Filter for Edge-Preserving Image Processing](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10942596)
+  
+**Yuanhao Gong**
+
+IEEE Access, 2025
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CGF2024</div><img src='images/cgf2023.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Curvature-driven Multi-stream Network for Feature-preservingMesh Denoising](https://doi.org/10.1111/cgf.14993)
