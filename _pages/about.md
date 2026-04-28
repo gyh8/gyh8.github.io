@@ -54,6 +54,16 @@ Yuanhao Gong(龚元浩) received his B.S. from <a href='https://www.tsinghua.edu
 
 # 📝 Recent Publications <a href='https://scholar.google.com/citations?user=mZodcgwAAAAJ'>Full List (100+) at Google Scholar</a>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/cvpr2025.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Layered Image Vectorization via Semantic Simplification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11094816)
+  
+Z Wang, J Huang, Z Sun, **Y Gong**, D Cohen-Or, M Lu
+
+CVPR, 2025
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE 2025</div><img src='images/osbf.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [OSBF: One-Sided Box Filter for Edge-Preserving Image Processing](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10942596)
