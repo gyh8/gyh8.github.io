@@ -22,10 +22,10 @@ Yuanhao Gong(龚元浩) received his B.S. from <a href='https://www.tsinghua.edu
 <div class='paper-box-image'><div><div class="badge"></div><img src='images/overall.jpg' alt="sym" width="50%"></div></div>
 
 # 🔥 News
-- *2026.07*: one paper has been accepted by Advanced Energy Materials (IF=26).
+- *2026.07*: &nbsp;🎉 one paper has been accepted by Advanced Energy Materials (IF=26).
 - *2026.06*: welcome on board, Xin from Peking University, Zhao from Harbin Institute of Technology, Jianqiao from Jilin University and Zhipeng from University of Electronic Science and Technology of China !! &nbsp;🎉&nbsp;🎉&nbsp;🎉
 - *2025.05*: moved to CIOMP at Changchun, starting a new group. Join us via gong.ai@qq.com !
-- *2024.09*: &nbsp;🎉One paper has been accepted by IEEE Sensors Journal.
+- *2024.09*: &nbsp;🎉 One paper has been accepted by IEEE Sensors Journal.
 - *2024.04*: &nbsp;🎉 One paper has been accepted at ISPRS (IF=12.7).
 - *2023.08*: &nbsp;invited as editor of AJPS (impact factor 10.2).
 - Active Reviewer for Nature, Nature Methods, T-PAMI, T-IP, CVPR, ICCV, etc.
