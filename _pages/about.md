@@ -54,6 +54,26 @@ Yuanhao Gong(龚元浩) received his B.S. from <a href='https://www.tsinghua.edu
 
 # 📝 Recent Publications <a href='https://scholar.google.com/citations?user=mZodcgwAAAAJ'>Full List (100+) at Google Scholar</a>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TGRS</div><img src='images/DHMD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[DHMD: Harnessing the Power of State Space Models for Advanced Vehicle-aware RGB-T Object Detection in Spatial-Frequency Domain](https://ieeexplore.ieee.org/abstract/document/11717544)
+  
+C Yu, G Li, B Lv, **Y Gong**, Y Fu, Y Huang, C Yu, X Jiang,
+
+IEEE TGRS, 2026
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors Journal</div><img src='images/GA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Shared-Kernel Wavelet Networks for Near-Sensor Poisson Image Reconstruction](https://ieeexplore.ieee.org/abstract/document/11563717)
+  
+**Y Gong**, T Tang, Q Liu
+
+IEEE Sensors Journal, 2026
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/cvpr2025.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Layered Image Vectorization via Semantic Simplification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11094816)
